@@ -1,0 +1,1534 @@
+{
+  "mean_attention_weights": [
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444,
+    0.006944444444444444
+  ],
+  "feature_names": [
+    "flag",
+    "src_bytes",
+    "dst_bytes",
+    "land",
+    "wrong_fragment",
+    "urgent",
+    "hot",
+    "num_failed_logins",
+    "logged_in",
+    "num_compromised",
+    "root_shell",
+    "su_attempted",
+    "num_root",
+    "num_file_creations",
+    "num_shells",
+    "num_access_files",
+    "num_outbound_cmds",
+    "is_host_login",
+    "is_guest_login",
+    "count",
+    "srv_count",
+    "serror_rate",
+    "srv_serror_rate",
+    "rerror_rate",
+    "srv_rerror_rate",
+    "same_srv_rate",
+    "diff_srv_rate",
+    "srv_diff_host_rate",
+    "dst_host_count",
+    "dst_host_srv_count",
+    "dst_host_same_srv_rate",
+    "dst_host_diff_srv_rate",
+    "dst_host_same_src_port_rate",
+    "dst_host_srv_diff_host_rate",
+    "dst_host_serror_rate",
+    "dst_host_srv_serror_rate",
+    "dst_host_rerror_rate",
+    "duration_icmp",
+    "duration_tcp",
+    "duration_udp",
+    "protocol_type_IRC",
+    "protocol_type_X11",
+    "protocol_type_Z39_50",
+    "protocol_type_aol",
+    "protocol_type_auth",
+    "protocol_type_bgp",
+    "protocol_type_courier",
+    "protocol_type_csnet_ns",
+    "protocol_type_ctf",
+    "protocol_type_daytime",
+    "protocol_type_discard",
+    "protocol_type_domain",
+    "protocol_type_domain_u",
+    "protocol_type_echo",
+    "protocol_type_eco_i",
+    "protocol_type_ecr_i",
+    "protocol_type_efs",
+    "protocol_type_exec",
+    "protocol_type_finger",
+    "protocol_type_ftp",
+    "protocol_type_ftp_data",
+    "protocol_type_gopher",
+    "protocol_type_harvest",
+    "protocol_type_hostnames",
+    "protocol_type_http",
+    "protocol_type_http_2784",
+    "protocol_type_http_443",
+    "protocol_type_http_8001",
+    "protocol_type_imap4",
+    "protocol_type_iso_tsap",
+    "protocol_type_klogin",
+    "protocol_type_kshell",
+    "protocol_type_ldap",
+    "protocol_type_link",
+    "protocol_type_login",
+    "protocol_type_mtp",
+    "protocol_type_name",
+    "protocol_type_netbios_dgm",
+    "protocol_type_netbios_ns",
+    "protocol_type_netbios_ssn",
+    "protocol_type_netstat",
+    "protocol_type_nnsp",
+    "protocol_type_nntp",
+    "protocol_type_ntp_u",
+    "protocol_type_other",
+    "protocol_type_pm_dump",
+    "protocol_type_pop_2",
+    "protocol_type_pop_3",
+    "protocol_type_printer",
+    "protocol_type_private",
+    "protocol_type_red_i",
+    "protocol_type_remote_job",
+    "protocol_type_rje",
+    "protocol_type_shell",
+    "protocol_type_smtp",
+    "protocol_type_sql_net",
+    "protocol_type_ssh",
+    "protocol_type_sunrpc",
+    "protocol_type_supdup",
+    "protocol_type_systat",
+    "protocol_type_telnet",
+    "protocol_type_tftp_u",
+    "protocol_type_tim_i",
+    "protocol_type_time",
+    "protocol_type_urh_i",
+    "protocol_type_urp_i",
+    "protocol_type_uucp",
+    "protocol_type_uucp_path",
+    "protocol_type_vmnet",
+    "protocol_type_whois",
+    "service_OTH",
+    "service_REJ",
+    "service_RSTO",
+    "service_RSTOS0",
+    "service_RSTR",
+    "service_S0",
+    "service_S1",
+    "service_S2",
+    "service_S3",
+    "service_SF",
+    "service_SH",
+    "dst_host_srv_rerror_rate_back",
+    "dst_host_srv_rerror_rate_buffer_overflow",
+    "dst_host_srv_rerror_rate_ftp_write",
+    "dst_host_srv_rerror_rate_guess_passwd",
+    "dst_host_srv_rerror_rate_imap",
+    "dst_host_srv_rerror_rate_ipsweep",
+    "dst_host_srv_rerror_rate_land",
+    "dst_host_srv_rerror_rate_loadmodule",
+    "dst_host_srv_rerror_rate_multihop",
+    "dst_host_srv_rerror_rate_neptune",
+    "dst_host_srv_rerror_rate_nmap",
+    "dst_host_srv_rerror_rate_normal",
+    "dst_host_srv_rerror_rate_perl",
+    "dst_host_srv_rerror_rate_phf",
+    "dst_host_srv_rerror_rate_pod",
+    "dst_host_srv_rerror_rate_portsweep",
+    "dst_host_srv_rerror_rate_rootkit",
+    "dst_host_srv_rerror_rate_satan",
+    "dst_host_srv_rerror_rate_smurf",
+    "dst_host_srv_rerror_rate_spy",
+    "dst_host_srv_rerror_rate_teardrop",
+    "dst_host_srv_rerror_rate_warezclient",
+    "dst_host_srv_rerror_rate_warezmaster"
+  ],
+  "top_features": [
+    [
+      "dst_host_srv_rerror_rate_guess_passwd",
+      0.006944444444444444
+    ],
+    [
+      "dst_host_srv_rerror_rate_imap",
+      0.006944444444444444
+    ],
+    [
+      "dst_host_srv_rerror_rate_ipsweep",
+      0.006944444444444444
+    ],
+    [
+      "dst_host_srv_rerror_rate_land",
+      0.006944444444444444
+    ],
+    [
+      "dst_host_srv_rerror_rate_loadmodule",
+      0.006944444444444444
+    ],
+    [
+      "dst_host_srv_rerror_rate_multihop",
+      0.006944444444444444
+    ],
+    [
+      "dst_host_srv_rerror_rate_neptune",
+      0.006944444444444444
+    ],
+    [
+      "dst_host_srv_rerror_rate_nmap",
+      0.006944444444444444
+    ],
+    [
+      "dst_host_srv_rerror_rate_normal",
+      0.006944444444444444
+    ],
+    [
+      "dst_host_srv_rerror_rate_perl",
+      0.006944444444444444
+    ],
+    [
+      "dst_host_srv_rerror_rate_phf",
+      0.006944444444444444
+    ],
+    [
+      "dst_host_srv_rerror_rate_pod",
+      0.006944444444444444
+    ],
+    [
+      "dst_host_srv_rerror_rate_portsweep",
+      0.006944444444444444
+    ],
+    [
+      "dst_host_srv_rerror_rate_rootkit",
+      0.006944444444444444
+    ],
+    [
+      "dst_host_srv_rerror_rate_satan",
+      0.006944444444444444
+    ],
+    [
+      "dst_host_srv_rerror_rate_smurf",
+      0.006944444444444444
+    ],
+    [
+      "dst_host_srv_rerror_rate_spy",
+      0.006944444444444444
+    ],
+    [
+      "dst_host_srv_rerror_rate_teardrop",
+      0.006944444444444444
+    ],
+    [
+      "dst_host_srv_rerror_rate_warezclient",
+      0.006944444444444444
+    ],
+    [
+      "dst_host_srv_rerror_rate_warezmaster",
+      0.006944444444444444
+    ]
+  ],
+  "comparison_with_xgb": [
+    {
+      "feature": "flag",
+      "xgb_importance": 0.006655149627476931,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 11.0,
+      "rank_nn": 72.5,
+      "rank_difference": -61.5
+    },
+    {
+      "feature": "src_bytes",
+      "xgb_importance": 0.0025907964445650578,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 13.0,
+      "rank_nn": 72.5,
+      "rank_difference": -59.5
+    },
+    {
+      "feature": "dst_bytes",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "land",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "wrong_fragment",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "urgent",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "hot",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "num_failed_logins",
+      "xgb_importance": 0.002535582985728979,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 14.0,
+      "rank_nn": 72.5,
+      "rank_difference": -58.5
+    },
+    {
+      "feature": "logged_in",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "num_compromised",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "root_shell",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "su_attempted",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "num_root",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "num_file_creations",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "num_shells",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "num_access_files",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "num_outbound_cmds",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "is_host_login",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "is_guest_login",
+      "xgb_importance": 0.16214539110660553,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 3.0,
+      "rank_nn": 72.5,
+      "rank_difference": -69.5
+    },
+    {
+      "feature": "count",
+      "xgb_importance": 0.299234002828598,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 1.0,
+      "rank_nn": 72.5,
+      "rank_difference": -71.5
+    },
+    {
+      "feature": "srv_count",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "serror_rate",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "srv_serror_rate",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "rerror_rate",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "srv_rerror_rate",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "same_srv_rate",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "diff_srv_rate",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "srv_diff_host_rate",
+      "xgb_importance": 0.0016368096694350243,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 15.0,
+      "rank_nn": 72.5,
+      "rank_difference": -57.5
+    },
+    {
+      "feature": "dst_host_count",
+      "xgb_importance": 0.002717326395213604,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 12.0,
+      "rank_nn": 72.5,
+      "rank_difference": -60.5
+    },
+    {
+      "feature": "dst_host_srv_count",
+      "xgb_importance": 0.01189284399151802,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 10.0,
+      "rank_nn": 72.5,
+      "rank_difference": -62.5
+    },
+    {
+      "feature": "dst_host_same_srv_rate",
+      "xgb_importance": 0.001111738383769989,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 16.0,
+      "rank_nn": 72.5,
+      "rank_difference": -56.5
+    },
+    {
+      "feature": "dst_host_diff_srv_rate",
+      "xgb_importance": 0.01624886319041252,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 8.0,
+      "rank_nn": 72.5,
+      "rank_difference": -64.5
+    },
+    {
+      "feature": "dst_host_same_src_port_rate",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_srv_diff_host_rate",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_serror_rate",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_srv_serror_rate",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_rerror_rate",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "duration_icmp",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "duration_tcp",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "duration_udp",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_IRC",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_X11",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_Z39_50",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_aol",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_auth",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_bgp",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_courier",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_csnet_ns",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_ctf",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_daytime",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_discard",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_domain",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_domain_u",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_echo",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_eco_i",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_ecr_i",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_efs",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_exec",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_finger",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_ftp",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_ftp_data",
+      "xgb_importance": 0.014435588382184505,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 9.0,
+      "rank_nn": 72.5,
+      "rank_difference": -63.5
+    },
+    {
+      "feature": "protocol_type_gopher",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_harvest",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_hostnames",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_http",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_http_2784",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_http_443",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_http_8001",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_imap4",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_iso_tsap",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_klogin",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_kshell",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_ldap",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_link",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_login",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_mtp",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_name",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_netbios_dgm",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_netbios_ns",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_netbios_ssn",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_netstat",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_nnsp",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_nntp",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_ntp_u",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_other",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_pm_dump",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_pop_2",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_pop_3",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_printer",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_private",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_red_i",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_remote_job",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_rje",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_shell",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_smtp",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_sql_net",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_ssh",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_sunrpc",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_supdup",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_systat",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_telnet",
+      "xgb_importance": 0.05790697783231735,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 6.0,
+      "rank_nn": 72.5,
+      "rank_difference": -66.5
+    },
+    {
+      "feature": "protocol_type_tftp_u",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_tim_i",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_time",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_urh_i",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_urp_i",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_uucp",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_uucp_path",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_vmnet",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "protocol_type_whois",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "service_OTH",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "service_REJ",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "service_RSTO",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "service_RSTOS0",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "service_RSTR",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "service_S0",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "service_S1",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "service_S2",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "service_S3",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "service_SF",
+      "xgb_importance": 0.07077185064554214,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 5.0,
+      "rank_nn": 72.5,
+      "rank_difference": -67.5
+    },
+    {
+      "feature": "service_SH",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_srv_rerror_rate_back",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_srv_rerror_rate_buffer_overflow",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_srv_rerror_rate_ftp_write",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_srv_rerror_rate_guess_passwd",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_srv_rerror_rate_imap",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_srv_rerror_rate_ipsweep",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_srv_rerror_rate_land",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_srv_rerror_rate_loadmodule",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_srv_rerror_rate_multihop",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_srv_rerror_rate_neptune",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_srv_rerror_rate_nmap",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_srv_rerror_rate_normal",
+      "xgb_importance": 0.19080880284309387,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 2.0,
+      "rank_nn": 72.5,
+      "rank_difference": -70.5
+    },
+    {
+      "feature": "dst_host_srv_rerror_rate_perl",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_srv_rerror_rate_phf",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_srv_rerror_rate_pod",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_srv_rerror_rate_portsweep",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_srv_rerror_rate_rootkit",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_srv_rerror_rate_satan",
+      "xgb_importance": 0.05555594339966774,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 7.0,
+      "rank_nn": 72.5,
+      "rank_difference": -65.5
+    },
+    {
+      "feature": "dst_host_srv_rerror_rate_smurf",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_srv_rerror_rate_spy",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_srv_rerror_rate_teardrop",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    },
+    {
+      "feature": "dst_host_srv_rerror_rate_warezclient",
+      "xgb_importance": 0.10375238955020905,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 4.0,
+      "rank_nn": 72.5,
+      "rank_difference": -68.5
+    },
+    {
+      "feature": "dst_host_srv_rerror_rate_warezmaster",
+      "xgb_importance": 0.0,
+      "nn_attention": 0.006944444444444444,
+      "rank_xgb": 80.5,
+      "rank_nn": 72.5,
+      "rank_difference": 8.0
+    }
+  ],
+  "correlation": {
+    "pearson": 1.723678649918262e-16,
+    "spearman": NaN
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "best_strategy": "max",
+  "ensemble_weights": null,
+  "performance": {
+    "accuracy": 0.9944552874378992,
+    "precision": 0.9945874001774623,
+    "recall": 0.9998661968690067,
+    "f1_score": 0.9972198127265852
+  },
+  "all_strategies": {
+    "average": 0.9970413543033836,
+    "weighted": 0.9971305914540561,
+    "max": 0.9972198127265852,
+    "min": 0.9849803797753822
+  }
+}
