@@ -197,6 +197,6 @@ PyTorch: Deep learning library
 
 Plotly: Interactive visualization library
 
-### team members
+### Team Members
 Zainab Batool
 Maryam Fatima
